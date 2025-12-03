@@ -1,0 +1,20 @@
+[project]
+name = "MachineLearningYSU2025"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasets>=4.4.1",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "nb2pdf>=0.6.2",
+    "nbconvert>=7.16.6",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "reportlab>=4.4.5",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "transformers>=4.57.3",
+]
