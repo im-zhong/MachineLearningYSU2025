@@ -1,0 +1,3 @@
+Epoch 1/5 - Train RMSE: 1.8461, Val RMSE: 1.6682, Train Accuracy: 0.5, Val Accuracy: 0.4, xxx
+Epoch 2/5 - xxx
+xxx
